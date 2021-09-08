@@ -5,3 +5,5 @@ Javascript local and multiplayer videogame (LAN) using jQuery, jCanvas, WebSocke
 - npm install
 - node main.js
 - open your browser and navigate to http://localhost:27080
+
+## Coded by @iasdev & Designed by @maryalcazar
